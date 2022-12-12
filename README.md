@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Alec</h1>
-<h3 align="center">AI & machine learning enthusiast, musician, and computer science student.</h3>
+<h1 align="left">Hi, I'm Alec</h1>
 
-<h3 align="left">⛏ My Skills</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=AI+%26+machine+learning+enthusiast;Musician;Computer+science+student" alt="Typing SVG" /></a>
+
+<h3 align="left">My Skills 🧑‍💻</h3>
 <p align="left"> 
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -21,7 +22,7 @@
 	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<h3 align="left">My socials</h3>
+<h3 align="left">My Socials 😄</h3>
 <p align="left">
 <a href="https://twitter.com/alecames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alecames" height="30" width="40" /></a>
 <a href="https://instagram.com/alec.ames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alec.ames" height="30" width="40" /></a>
