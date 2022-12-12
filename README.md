@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Alec</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=AI+%26+machine+learning+enthusiast;Musician;Computer+science+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=63A1F6&width=435&lines=AI+%26+machine+learning+enthusiast;Musician;Computer+science+student" alt="Typing SVG" /></a>
 
 <h3 align="left">My Skills 🧑‍💻</h3>
 <p align="left"> 
