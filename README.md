@@ -30,8 +30,8 @@
 <a href="https://instagram.com/alec.ames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alec.ames" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://githubstats.alecames.com/api?username=alecames&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="alecames" /></p>
+<p>&nbsp;<img align="left" src="https://githubstats.alecames.com/api?username=alecames&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="alecames" /></p>
 
-<p><img align="center" src="https://githubstats.alecames.com/api/top-langs?username=alecames&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="alecames" /></p>
+<p><img align="center" src="https://githubstats.alecames.com/api/top-langs?username=alecames&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="alecames" /></p>
 
 
