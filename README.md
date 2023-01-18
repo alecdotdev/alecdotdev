@@ -1,8 +1,9 @@
 <h1 align="left">Hi, I'm Alec</h1>
-<h4>I'm passionate about AI, machine learning, music, and graphics.</h4>
-
-
+<h4>I'm a student developer passionate about AI, machine learning, music, and graphics. <br>Visit my website at <a href="https://alecames.com">alecames.com</a>.</h4>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=63A1F6&width=435&lines=AI+%26+machine+learning+enthusiast;Musician;Computer+science+student" alt="Typing SVG" /></a>
+
+- 🏫 Currently studying Computer Science at [Brock Universtiy](https://brocku.ca)
+- 📧 Feel free to reach out to me at [dev@alecames.com](mailto:dev@alecames.com)
 
 <h3 align="left">My Skills 🧑‍💻</h3>
 <p align="left"> 
