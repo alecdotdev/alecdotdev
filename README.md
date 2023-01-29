@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alec</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=63A1F6&width=435&lines=AI+%26+machine+learning+enthusiast;Musician;Computer+science+student" alt="Typing SVG" /></a>
-<h4 align="center'">I'm a student developer passionate about AI, machine learning, music, and graphics. <br>Visit my website at <a href="https://alecames.com">alecames.com</a>.</h4>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6a9955&width=435&lines=%2F%2F+AI+%26+machine+learning+enthusiast;%2F%2F+musician;%2F%2F+computer+science+student" alt="Typing SVG" />
+<h4>I'm a student developer passionate about AI, machine learning, music, and graphics. <br>Visit my website at <a title="Personal Website" href="https://alecames.com">alecames.com</a>.</h4>
 
 - 🏫 Currently studying Computer Science at [Brock Universtiy](https://brocku.ca)
 - 📧 Feel free to reach out to me at [dev@alecames.com](mailto:dev@alecames.com)
@@ -9,29 +9,32 @@
 <h2 align="center">My Skills ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=py,visualstudio,vscode,java,js,ts,html,css,svelte,netlify,cpp,c,git,github,androidstudio,kotlin,mongodb,sqlite,mysql,postgres,react,nodejs,bash,linux,vercel,gcp,pytorch,tailwind,docker,idea,latex,arduino,processing,ai,ps,pr,ae,blender&perline=10" />
+    <img title="My Skill Stack" src="https://skillicons.dev/icons?i=py,visualstudio,vscode,java,js,ts,html,css,svelte,netlify,cpp,c,git,github,androidstudio,kotlin,rust,mongodb,sqlite,mysql,firebase,postgres,react,nodejs,bash,linux,vercel,gcp,pytorch,tailwind,docker,idea,latex,arduino,processing,ai,ps,pr,ae,blender&perline=10" />
   </a>
 </p>
 
 <h2 align="center">My Socials 🔗</h2>
 <p align="center">
 	<a href="https://linkedin.com/in/alecames/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 	<a href="https://github.com/alecames/">
-	<img src="https://skillicons.dev/icons?i=github" />
+	<img title="GitHub (you're already here)" src="https://skillicons.dev/icons?i=github" />
 	</a>
   <a href="https://instagram.com/alec.ames/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img title="Instagram" src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://twitter.com/alecames/">
-	<img src="https://skillicons.dev/icons?i=twitter" />
+	<img title="Twitter" src="https://skillicons.dev/icons?i=twitter" />
 	</a>
 </p>
 
-<h2 align="center">Some Stats 📊</h2>
+<h2 align="center">GitHub Stats 📊</h2>
 <div align="center">
-<p><img style="float:left"  src="https://githubstats.alecames.com/api?username=alecames&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="alecames" /></p>
+<img title="GitHub Stats" src="https://githubstats.alecames.com/api?username=alecames&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=00000000" alt="alecames" />
 
-<p><img style="float:right; transition: float 0.33s ease;" src="https://githubstats.alecames.com/api/top-langs?username=alecames&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="alecames" /></p>
+<img title="Top Coding Languages" src="https://githubstats.alecames.com/api/top-langs?username=alecames&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=alecames&theme=onedark&no-frame=true&no-bg=true" /> -->
+<img title="GitHub Streak" src="https://streak-stats.demolab.com?user=alecames&theme=highcontrast&hide_border=true&background=DD272700" />
+<!-- <img style="float:right; transition: float 0.33s ease;" src="https://githubstats.alecames.com/api/wakatime?username=alecames" alt="alecames" /> -->
 </div>
