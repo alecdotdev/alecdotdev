@@ -5,13 +5,10 @@
 - 🏫 Currently studying Computer Science at [Brock Universtiy](https://brocku.ca)
 - 📧 Feel free to reach out to me at [dev@alecames.com](mailto:dev@alecames.com)
   
-  
 <h2 align="center">My Skills ⚒️</h2>
-<p align="center">
-  <a href="https://skillicons.dev/">
-    <img title="My Skill Stack" src="https://skillicons.dev/icons?i=py,visualstudio,vscode,java,js,ts,html,css,svelte,netlify,cpp,c,git,github,androidstudio,kotlin,rust,mongodb,sqlite,mysql,firebase,postgres,react,nodejs,bash,linux,vercel,gcp,pytorch,tailwind,docker,idea,latex,arduino,processing,ai,ps,pr,ae,blender&perline=10" />
-  </a>
-</p>
+<div align="center">
+    <img title="My Skill Stack" src="https://skillicons.dev/icons?i=py,visualstudio,vscode,java,js,ts,html,css,svelte,netlify,cpp,c,git,github,markdown,latex,androidstudio,kotlin,discord,bots,rust,mongodb,sqlite,mysql,firebase,postgres,react,nodejs,bash,linux,vercel,gcp,pytorch,tailwind,docker,idea,arduino,processing,figma,ai,ps,pr,ae,blender&perline=10" />
+</div>
 
 <h2 align="center">My Socials 🔗</h2>
 <p align="center">
