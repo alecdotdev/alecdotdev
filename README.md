@@ -28,11 +28,13 @@
 
 <h2 align="center">GitHub Stats 📊</h2>
 <div align="center">
+	
 <img title="GitHub Stats" src="https://githubstats.alecames.com/api?username=alecames&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=00000000" alt="alecames" />
 
-<img title="Top Coding Languages" src="https://githubstats.alecames.com/api/top-langs?username=alecames&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=alecames&theme=onedark&no-frame=true&no-bg=true" /> -->
-<!-- <img title="Coding Activity" src="https://githubstats.alecames.com/api/wakatime?username=alecames&theme=dark&hide_border=true&bg_color=00000000" /> -->
+<!-- <img title="Top Coding Languages" src="https://githubstats.alecames.com/api/top-langs?username=alecames&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=00000000" /> -->
+	
+<img title="Coding Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=alecames&layout=compact&langs_count=8&custom_title=Weekly+Programming+Stats&theme=dark&hide_border=true&bg_color=00000000" />
+	
 <img title="GitHub Streak" src="https://streak-stats.demolab.com?user=alecames&theme=highcontrast&hide_border=true&background=DD272700" />
-<!-- <img style="float:right; transition: float 0.33s ease;" src="https://githubstats.alecames.com/api/wakatime?username=alecames" alt="alecames" /> -->
+
 </div>
