@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alec</h1> 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=alecames&style=flat-square"/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=alecames&style=flat-square&label=PROFILE+VIEWS&color=6a9955"/></div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6a9955&width=435&lines=%2F%2F+AI+%26+machine+learning+enthusiast;%2F%2F+musician;%2F%2F+computer+science+student" alt="Typing SVG" />
 <h4>I'm a student developer passionate about AI, machine learning, music, and graphics. <br>Visit my website at <a title="Personal Website" href="https://alecames.com">alecames.com</a>.</h4>
 
