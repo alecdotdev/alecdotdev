@@ -7,7 +7,7 @@
   
 <h2 align="center">My Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,vscode,java,js,ts,html,css,svelte,supabase,netlify,vercel,vite,cpp,c,androidstudio,bots,rust,sqlite,mysql,firebase,postgres,react,nodejs,bash,linux,gcp,pytorch,tailwind,docker,idea,visualstudio,arduino,processing,figma,ai,ps,pr,ae&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,java,js,ts,html,css,svelte,supabase,netlify,vercel,vite,cpp,c,androidstudio,bots,sqlite,mysql,firebase,postgres,react,nodejs,bash,linux,gcp,pytorch,tailwind,docker,idea,visualstudio,figma,ai,ps,pr,ae&perline=12" />
 </div>
 
 <h2 align="center">My Socials 🔗</h2>
