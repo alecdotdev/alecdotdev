@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Alec</h1> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6a9955&width=435&lines=%2F%2F+AI+%26+machine+learning+enthusiast;%2F%2F+musician;%2F%2F+computer+science+student" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=250&color=FFFFFF&multiline=true&repeat=false&random=false&width=700&height=80&lines=%24+echo+%22welcome+to+my+GitHub%22;%24+cat+alecames%2FREADME.md;%24" alt="Typing SVG" /></a>
+
 <h4>I'm a student developer passionate about AI, machine learning, music, and graphics. <br>Visit my website at <a title="Personal Website" href="https://alecames.com">alecames.com</a>.</h4>
 
 - 🏫 Currently studying Computer Science at [Brock Universtiy](https://brocku.ca)
@@ -7,7 +7,7 @@
   
 <h2 align="center">My Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,vscode,java,js,ts,html,css,svelte,supabase,netlify,vercel,vite,cpp,c,androidstudio,bots,sqlite,mysql,firebase,postgres,react,nodejs,bash,linux,gcp,pytorch,tailwind,docker,idea,visualstudio,figma,ai,ps,pr,ae&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,java,js,ts,html,css,svelte,supabase,netlify,vercel,vite,cpp,androidstudio,sqlite,mysql,firebase,postgres,react,nodejs,bash,linux,pytorch,visualstudio,figma,ai,ps,pr,ae&perline=12" />
 </div>
 
 <h2 align="center">My Socials 🔗</h2>
