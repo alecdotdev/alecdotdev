@@ -14,10 +14,6 @@
 <p align="center">
 	<a href="https://linkedin.com/in/alecames/">
     <img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-	<a href="https://github.com/alecames/">
-	<img title="GitHub (you're already here)" src="https://skillicons.dev/icons?i=github" />
-	</a>
   <a href="https://instagram.com/alec.ames/">
     <img title="Instagram" src="https://skillicons.dev/icons?i=instagram" />
   </a>
