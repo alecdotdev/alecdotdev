@@ -1,26 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=250&color=FFFFFF&multiline=true&repeat=false&random=false&width=700&height=80&lines=%24+echo+%22welcome+to+my+GitHub%22;%24+cat+alecames%2FREADME.md;%24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=250&color=FFFFFF&multiline=true&repeat=false&random=false&width=700&height=80&lines=%24+echo+%22Welcome+to+my+GitHub%22;%24+cat+alecames%2FREADME.md;%24" alt="Typing SVG" /></a>
 
-<h4>I'm a student developer passionate about AI, machine learning, music, and graphics. <br>Visit my website at <a title="Personal Website" href="https://alecames.com">alecames.com</a>.</h4>
+<h4>I'm a software developer passionate about AI, computer networking, music, and graphics. <br>Visit my website at <a title="Personal Website" href="https://alecames.com">alecames.com</a>.</h4>
 
-- 🏫 Currently studying Computer Science at [Brock Universtiy](https://brocku.ca)
+- 🏫 Recently completed my BSc in Computer Science at [Brock Universtiy](https://brocku.ca)
 - 📧 Feel free to reach out to me at [dev@alecames.com](mailto:dev@alecames.com)
   
 <h2 align="center">My Skills ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,vscode,java,js,ts,html,css,svelte,supabase,netlify,vercel,vite,cpp,androidstudio,sqlite,mysql,firebase,postgres,react,nodejs,bash,linux,pytorch,visualstudio,figma,ai,ps,pr,ae&perline=12" />
 </div>
-
-<h2 align="center">My Socials 🔗</h2>
-<p align="center">
-	<a href="https://linkedin.com/in/alecames/">
-    <img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
-  <a href="https://instagram.com/alec.ames/">
-    <img title="Instagram" src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://twitter.com/alecames/">
-	<img title="Twitter" src="https://skillicons.dev/icons?i=twitter" />
-	</a>
-</p>
 
 <h2 align="center">GitHub Stats 📊</h2>
 <div align="center">
