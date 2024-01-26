@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=250&color=FFFFFF&multiline=true&repeat=false&random=false&width=700&height=80&lines=%24+echo+%22Welcome+to+my+GitHub%22;%24+cat+alecames%2FREADME.md;%24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=250&color=FFFFFF&multiline=true&repeat=false&random=false&width=700&height=80&lines=%24+echo+%22Welcome+to+my+GitHub%22;%24+cat+alecames%2FREADME.md;" alt="Typing SVG" /></a>
 
 <h4>I'm a software developer passionate about AI, computer networking, music, and graphics. <br>Visit my website at <a title="Personal Website" href="https://alecames.com">alecames.com</a>.</h4>
 
