@@ -1,8 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=250&color=FFFFFF&multiline=true&repeat=false&random=false&width=700&height=80&lines=%24+echo+%22Welcome+to+my+GitHub%22;%24+cat+alecames%2FREADME.md;" alt="Typing SVG" /></a>
 
-<h4>I'm a software developer passionate about AI, computer networking, music, and graphics. <br>Visit my website at <a title="Personal Website" href="https://alecames.com">alecames.com</a>.</h4>
+<h4>I'm a fullstack software developer passionate about AI, computer networking, music, and graphics. </h4>
 
 - 🏫 Recently completed my BSc in Computer Science at [Brock Universtiy](https://brocku.ca)
+- 🌐 Visit my porfolio website at [alecames.com](https://alecames.com)
+- 🎮 Check out some games I've made on [games.alecames.com](https://games.alecames.com)
 - 📧 Feel free to reach out to me at [dev@alecames.com](mailto:dev@alecames.com)
   
 <h2 align="center">My Skills ⚒️</h2>
