@@ -7,7 +7,7 @@
 - 🎮 Check out some games I've made on [games.alecames.com](https://games.alecames.com)
 - 📧 Feel free to reach out to me at [dev@alecames.com](mailto:dev@alecames.com)
   
-<h2 align="center">My Skills ⚒️</h2>
+<h2 align="center">Skills & Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,vscode,java,js,ts,c,cpp,html,css,svelte,react,firebase,nodejs,tauri,electron,vite,supabase,netlify,vercel,androidstudio,sqlite,postgres,bash,linux,ubuntu,nginx,docker,pytorch,visualstudio,figma,ai,ps,pr,ae,notion&perline=12" />
 </div>
