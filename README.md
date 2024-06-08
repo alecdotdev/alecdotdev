@@ -2,7 +2,7 @@
 
 <h4>I'm a fullstack software developer passionate about AI, computer networking, music, and graphics. </h4>
 
-- 🏫 Recently completed my BSc in Computer Science at [Brock Universtiy](https://brocku.ca)
+- 🏫 Completed a BSc in Computer Science at [Brock Universtiy](https://brocku.ca)
 - 🌐 Visit my porfolio website at [alecames.com](https://alecames.com)
 - 🎮 Check out some games I've made on [games.alecames.com](https://games.alecames.com)
 - 📧 Feel free to reach out to me at [dev@alecames.com](mailto:dev@alecames.com)
