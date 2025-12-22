@@ -5,7 +5,7 @@
 - 🏫 Completed a BSc in Computer Science at [Brock Universtiy](https://brocku.ca)
 - 🌐 Visit my porfolio website at [alecames.dev](https://alecames.dev)
 - 🎮 Check out some games I've made on [games.alecames.dev](https://games.alecames.dev)
-- 📧 Feel free to reach out to me at [dev@alecames.com](mailto:dev@alecames.com)
+- 📧 Feel free to reach out to me at [hello@alecames.dev](mailto:hello@alecames.dev)
   
 <h2 align="center">Skills & Tools ⚒️</h2>
 <div align="center">
